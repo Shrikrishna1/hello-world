@@ -1,3 +1,3 @@
 C:
 CD C:\Users\shrikrishnap\Downloads
-mkdir test
+mkdir test12
